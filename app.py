@@ -65,7 +65,7 @@ def process_bio(text):
 
 # ------------ Begin app ---------------
 
-st.set_page_config(page_icon="https://i0.wp.com/data-for-humans.com/wp-content/uploads/2022/01/cropped-open_hand_icon_sq.png?ssl=1&resize=438%2C438", page_title="CSV Wrangler")
+st.set_page_config(page_icon="https://i0.wp.com/data-for-humans.com/wp-content/uploads/2022/01/cropped-open_hand_icon_sq.png?ssl=1&resize=438%2C438", page_title="Automating Repetitive Data Tasks")
 
 st.markdown('''
     <a href="https://www.data-for-humans.com">
